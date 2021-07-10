@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MuiaMuteti
 - 👀 I’m interested in full stack web development and game development
-- 🌱 I’m currently learning the react javascript framework and SFML game development using c++
+- 🌱 I’m currently learning the react javascript framework and SQL
 - 📫 You can reach me at fstsmuia@gmail.com
 
 <!---
